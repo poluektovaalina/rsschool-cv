@@ -1,2 +1,3 @@
 # rsschool-cv
-https://poluektovaalina.github.io/rsschool-cv/cv
+
+https://poluektovaalina.github.io/rsschool-cv/
